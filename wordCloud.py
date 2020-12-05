@@ -2,6 +2,7 @@ import matplotlib.pyplot as pPlot
 from wordcloud import WordCloud, STOPWORDS
 import numpy as npy
 from PIL import Image
+# some minor edit
 dataset = open("dmoldovan.txt", "r").read()
 def create_word_cloud(string):
     maskArray = npy.array(Image.open("cloud.jpg"))
