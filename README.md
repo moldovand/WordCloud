@@ -1,2 +1,2 @@
 # WordCloud
-A simple code for generating WordCloud pictograms.
+* A simple code for generating WordCloud pictograms.
